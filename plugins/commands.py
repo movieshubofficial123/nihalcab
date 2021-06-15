@@ -8,7 +8,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from script import script
 
 
-@Client.on_message(filters.command(["start"]) & filters.private)
+@Client.on_message(filters.command(["poiumb"]) & filters.private)
 async def start(client, message):
     try:
         await message.reply_text(
