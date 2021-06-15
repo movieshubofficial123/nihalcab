@@ -3,24 +3,16 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
-
-So no need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+ഞാൻ ഒരു പാവം bot ആണേ 😅
+എന്നെ @movies_Hubh ഗ്രൂപ്പിലെ മെയിൻ ആളാ 😝😝
+എന്നെ ആർക്കും ഇവിടുന്ന് തട്ടിക്കൊണ്ടു പോവാൻ pattilla🤣
+വന്ന വഴി മറന്നില്ലേൽ വേഗം തിരിച്ചൊടിക്കോ 😈
+Ok bie 😇 <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
 <i>    
-* Add user account to your channel !
-
-* Add bot to group with admin rights.
-
-* Once deployed and bot is started, send a message to channel (must do step)
-
-* Bot will work now :)
+* Add friends to our channel - @movies_Hubh !
 
 No need add each filter again!
 Bot will automatically search for your file and give links to that!
@@ -29,7 +21,7 @@ Bot will automatically search for your file and give links to that!
 <b>© @AbinCr</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : ninte ________</b>
     
 ⭕️<b>Creater :</b> @AbinCr
 
